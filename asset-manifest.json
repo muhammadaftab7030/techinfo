@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techinfo/static/css/main.cec8735c.css",
+    "main.js": "/techinfo/static/js/main.117c3841.js",
+    "index.html": "/techinfo/index.html",
+    "main.cec8735c.css.map": "/techinfo/static/css/main.cec8735c.css.map",
+    "main.117c3841.js.map": "/techinfo/static/js/main.117c3841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec8735c.css",
+    "static/js/main.117c3841.js"
+  ]
+}
