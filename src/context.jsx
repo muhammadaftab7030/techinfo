@@ -11,7 +11,7 @@ let API = `http://hn.algolia.com/api/v1/search?`;
         hits: [],
         page: 0,
         nbPages: 0,
-        query: ''
+        query: 'html'
     };
     
 
